@@ -1,1 +1,1 @@
-# arithmetic-coding
+# HW4 Discrete mathematics
